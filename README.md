@@ -1,2 +1,5 @@
-# Matrix-Tiling-Code-Generator
-C++ code generator for tiled matrix multiplication, created for Advanced Course in Programming Languages course.
+# Matrix Tiling Code Generator
+
+大学院授業の課題として作成した、行列積用のC++コード生成プログラム。
+
+タイルサイズ `BS` と行列サイズ `N` を指定すると、ループタイリングと一部アンロールを行ったC++の行列積関数を生成する。
